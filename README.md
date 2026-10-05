@@ -4,7 +4,7 @@
 
 # 🎲 Lucky Dice · 幸運骰子
 
-**A dazzling two-dice roller for iOS, built with SwiftUI**
+**A dazzling two-dice roller for iOS, built with SwiftUI**<br>
 **用 SwiftUI 打造、令人眼睛一亮的雙骰子 App**
 
 [![Platform](https://img.shields.io/badge/platform-iOS%2027%2B-blue?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
